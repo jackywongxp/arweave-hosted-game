@@ -1,5 +1,5 @@
 # arweave-hosted-game
-Classic Breakout game forever hosted on the Arweave blockchain. Check it out at https://arweave.net/Ptw1Pbo64Ox8cVK_6FwMc5pIofBLeiW9Bsudbw9rKAA
+Classic Breakout game forever hosted on the Arweave blockchain. Check it out at https://arweave.net/AxJEuyIs0g5pK3ZCyWxPASnmFbUJlqzPQMhHK_esC80
 
 Learn more at https://www.arweave.org
 
